@@ -1,0 +1,4 @@
+Notes on issues with the LabVIEW program:
+
+In dvotAFTKinetics, make sure when loading from a string, you deal with the
+proper way - set the properties, whatever.
