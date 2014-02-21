@@ -12,8 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Classes" Type="Folder">
-			<Item Name="dvotAFTKinetics.lvclass" Type="LVClass" URL="../Classes/dvotAFTKinetics.lvclass"/>
-			<Item Name="dvotFTAnnealingModel.lvclass" Type="LVClass" URL="../Classes/dvotFTAnnealingModel.lvclass"/>
+			<Item Name="dvotAFTKinetics.lvclass" Type="LVClass" URL="../Classes/dvotAFTKinetics/dvotAFTKinetics.lvclass"/>
+			<Item Name="dvotFTAnnealingModel.lvclass" Type="LVClass" URL="../Classes/dvotFTAnnealingModel/dvotFTAnnealingModel.lvclass"/>
 		</Item>
 		<Item Name="Constants" Type="Folder">
 			<Item Name="dvotAFTConstants.vi" Type="VI" URL="../Constants/dvotAFTConstants.vi"/>
