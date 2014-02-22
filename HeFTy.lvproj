@@ -14,16 +14,21 @@
 		<Item Name="Classes" Type="Folder">
 			<Item Name="dvotAFTKinetics.lvclass" Type="LVClass" URL="../Classes/dvotAFTKinetics/dvotAFTKinetics.lvclass"/>
 			<Item Name="dvotFTAnnealingModel.lvclass" Type="LVClass" URL="../Classes/dvotFTAnnealingModel/dvotFTAnnealingModel.lvclass"/>
+			<Item Name="dvotPDFStats.lvclass" Type="LVClass" URL="../Classes/dvotPDFStats/dvotPDFStats.lvclass"/>
+			<Item Name="dvotTTPathPoint.lvclass" Type="LVClass" URL="../Classes/dvotTTPathPoint/dvotTTPathPoint.lvclass"/>
 		</Item>
 		<Item Name="Constants" Type="Folder">
 			<Item Name="dvotAFTConstants.vi" Type="VI" URL="../Constants/dvotAFTConstants.vi"/>
 			<Item Name="dvotConstants.vi" Type="VI" URL="../Constants/dvotConstants.vi"/>
 			<Item Name="dvotZFTConstants.vi" Type="VI" URL="../Constants/dvotZFTConstants.vi"/>
 		</Item>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="TTPath.ctl" Type="VI" URL="../Controls/TTPath.ctl"/>
+		</Item>
 		<Item Name="Forms" Type="Folder">
 			<Item Name="About.vi" Type="VI" URL="../Forms/About.vi"/>
 			<Item Name="Preferences.vi" Type="VI" URL="../Forms/Preferences.vi"/>
-			<Item Name="Axis_Editor.vi" Type="VI" URL="../Constants/Axis_Editor.vi"/>
+			<Item Name="Axis_Editor.vi" Type="VI" URL="../Forms/Axis_Editor.vi"/>
 		</Item>
 		<Item Name="HeFTy Menu.rtm" Type="Document" URL="../HeFTy Menu.rtm"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
