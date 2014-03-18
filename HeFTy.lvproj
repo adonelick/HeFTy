@@ -29,6 +29,7 @@
 			<Item Name="About.vi" Type="VI" URL="../Forms/About.vi"/>
 			<Item Name="Preferences.vi" Type="VI" URL="../Forms/Preferences.vi"/>
 			<Item Name="Axis_Editor.vi" Type="VI" URL="../Forms/Axis_Editor.vi"/>
+			<Item Name="AFTInputFrame.vi" Type="VI" URL="../Forms/AFTInputFrame.vi"/>
 		</Item>
 		<Item Name="HeFTy Menu.rtm" Type="Document" URL="../HeFTy Menu.rtm"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
