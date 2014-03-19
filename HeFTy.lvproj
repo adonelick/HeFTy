@@ -34,6 +34,7 @@
 			<Item Name="HeMinSpecForm.vi" Type="VI" URL="../Forms/HeMinSpecForm.vi"/>
 			<Item Name="InverseModelForm.vi" Type="VI" URL="../Forms/InverseModelForm.vi"/>
 			<Item Name="SegmentParamsDialog.vi" Type="VI" URL="../Forms/SegmentParamsDialog.vi"/>
+			<Item Name="InverseModelOptForm.vi" Type="VI" URL="../Forms/InverseModelOptForm.vi"/>
 		</Item>
 		<Item Name="HeFTy Menu.rtm" Type="Document" URL="../HeFTy Menu.rtm"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
