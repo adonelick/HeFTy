@@ -29,7 +29,11 @@
 			<Item Name="About.vi" Type="VI" URL="../Forms/About.vi"/>
 			<Item Name="Preferences.vi" Type="VI" URL="../Forms/Preferences.vi"/>
 			<Item Name="Axis_Editor.vi" Type="VI" URL="../Forms/Axis_Editor.vi"/>
+			<Item Name="AFTSChildForm.vi" Type="VI" URL="../Forms/AFTSChildForm.vi"/>
 			<Item Name="AFTInputFrame.vi" Type="VI" URL="../Forms/AFTInputFrame.vi"/>
+			<Item Name="HeMinSpecForm.vi" Type="VI" URL="../Forms/HeMinSpecForm.vi"/>
+			<Item Name="InverseModelForm.vi" Type="VI" URL="../Forms/InverseModelForm.vi"/>
+			<Item Name="SegmentParamsDialog.vi" Type="VI" URL="../Forms/SegmentParamsDialog.vi"/>
 		</Item>
 		<Item Name="HeFTy Menu.rtm" Type="Document" URL="../HeFTy Menu.rtm"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
